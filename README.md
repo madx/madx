@@ -3,7 +3,6 @@
 - 🔭 **Current role**: Looking for a new opportunity
 - 🌐 **Website**: [francois.yapok.org](https://francois.yapok.org)
 - 💼 **LinkedIn**: [François Vaux](https://linkedin.com/u/francoisvaux)
-- 🙂 **Pronouns**: he/him
 
 ## About me
 
