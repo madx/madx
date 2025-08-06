@@ -1,6 +1,6 @@
 # Hi, I'm François!
 
-- 🔭 **Current role**: Looking for a new opportunity
+- 🐝 **Current role**: Frontend Engineering Manager at StrangeBee
 - 🌐 **Website**: [francois.yapok.org](https://francois.yapok.org)
 - 💼 **LinkedIn**: [François Vaux](https://linkedin.com/u/francoisvaux)
 
